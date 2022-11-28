@@ -3,7 +3,7 @@ paddlenlp with flask
 
 ## Usage
 
-```
+```sh
 sudo docker-compose up
 
 curl http://localhost:5000/uie -H 'Content-Type: application/json' -d '{
